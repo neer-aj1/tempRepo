@@ -1,0 +1,4 @@
+Navbar
+Light home
+Light search
+Light profile
