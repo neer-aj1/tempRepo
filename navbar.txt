@@ -1,0 +1,4 @@
+Navbar
+Dark home
+Dark search
+Dark profile
