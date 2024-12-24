@@ -1,4 +1,4 @@
 Navbar
-Light home
-Light search
-Light profile
+Dark home
+Dark search
+Dark profile
